@@ -1,0 +1,6 @@
+2024-10-03 09:02:25.324177-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CARRO" not found; SQL statement:
+select * from carro [42102-224]
+2024-10-03 09:02:39.989074-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEICULO" not found; SQL statement:
+select * from veiculo [42102-224]

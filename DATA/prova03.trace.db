@@ -1,0 +1,3 @@
+2024-10-03 15:07:52.481545-03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONSERTOS" not found; SQL statement:
+select * from consertos [42102-224]
