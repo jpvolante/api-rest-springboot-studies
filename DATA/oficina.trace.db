@@ -1,0 +1,9 @@
+2024-03-27 16:08:29.760329-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONSERTOS" not found; SQL statement:
+insert into consertos (data_entrada,data_saida,anos_experiencia,nome_mecanico,ano,marca,modelo,id) values (?,?,?,?,?,?,?,default) [42102-224]
+2024-03-27 16:20:56.388110-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONSERTOS" not found; SQL statement:
+insert into consertos (data_entrada,data_saida,anos_experiencia,nome_mecanico,ano,marca,modelo,id) values (?,?,?,?,?,?,?,default) [42102-224]
+2024-04-01 23:47:12.791801-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONERTO" not found; SQL statement:
+select * from conerto [42102-224]
